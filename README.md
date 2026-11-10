@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24105816.svg)](https://doi.org/10.5281/zenodo.24105816)
+
 <div align="center">
 
 # Computational Investigation of Radiation-Induced Vacancy Formation and Multi-Objective Screening of Inorganic Halide Perovskites
