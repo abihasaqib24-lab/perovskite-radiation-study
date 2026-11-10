@@ -1,0 +1,7 @@
+material,year,evidence_type,reported_pce_percent,modification,irradiation_evidence,doi,source_url
+Cs3Sb2I9,2025,Experimental photovoltaic device,3.4,Engineered 2D film and interface,Not established by this paper,10.1002/advs.202509281,https://doi.org/10.1002/advs.202509281
+Cs2AgInCl6,2024,Experimental photovoltaic device,1.77,Cu-doped quantum dots,Not established by this paper,10.1039/D3CP05297D,https://doi.org/10.1039/D3CP05297D
+Cs2AgBiBr6,2024,Experimental photovoltaic device,3.02,Pristine absorber device,Not established by this paper,10.1021/acsomega.3c10388,https://doi.org/10.1021/acsomega.3c10388
+CsSnI3,2021,Experimental photovoltaic device,7.5,MBAA-modified device,Not established by this paper,10.1021/jacs.0c13069,https://doi.org/10.1021/jacs.0c13069
+Cs3Bi2I9,2023,Experimental photovoltaic device,1.52,Vapor-deposited absorber,Not established by this paper,10.1016/j.optmat.2023.113815,https://doi.org/10.1016/j.optmat.2023.113815
+Cs3Bi2I9,2020,Experimental X-ray detector,,Single crystal,"X-ray detection, not proton PV testing",10.1038/s41467-020-16034-w,https://doi.org/10.1038/s41467-020-16034-w

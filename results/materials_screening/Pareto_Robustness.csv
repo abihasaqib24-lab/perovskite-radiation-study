@@ -1,0 +1,6 @@
+material_id,formula,eligible_scenarios,pareto_scenarios,selection_rate
+mp-1078250,Cs2AgBiBr6,12,0,0.0
+mp-27381,CsSnI3,9,0,0.0
+mp-23029,Cs3Sb2I9,15,5,0.3333333333333333
+mp-541014,Cs3Sb2I9,18,12,0.6666666666666666
+mp-1096926,Cs2InAgCl6,30,25,0.8333333333333334

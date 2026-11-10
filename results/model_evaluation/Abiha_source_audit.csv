@@ -1,0 +1,9 @@
+sheet,original_label,interpreted_material,energy_keV,n_rows,min_depth,max_depth,needs_material_confirmation
+Sheet1,CsPbI3 in 20 keV,CsPbI3,20,100,100.01,10000.0,False
+Sheet2,CsPbI9 in 50 keV,CsPbI3,50,100,100.01,10000.0,True
+Sheet3,CsPbI3 in 100 keV,CsPbI3,100,96,100.01,9600.01,False
+Sheet4,CsPbI9 in 500 keV,CsPbI3,500,100,100.01,10000.0,True
+Sheet5,Cs3Sb2I9 in 20 keV,Cs3Sb2I9,20,100,100.01,10000.0,False
+Sheet6,Cs3Sb2I9 in 50 keV,Cs3Sb2I9,50,100,100.01,10000.0,False
+Sheet7,Cs3Sb2I9 in 100 keV,Cs3Sb2I9,100,100,100.01,10000.0,False
+Sheet8,Cs3Sb2I9 in 500 keV,Cs3Sb2I9,500,100,100.01,10000.0,False
