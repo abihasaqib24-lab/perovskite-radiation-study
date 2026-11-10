@@ -1,0 +1,16 @@
+﻿cff-version: 1.2.0
+message: "If you use this research software or its associated results, please cite this repository."
+title: "Computational Investigation of Radiation-Induced Vacancy Formation and Multi-Objective Screening of Inorganic Halide Perovskites"
+type: software
+authors:
+  - family-names: "Saqib"
+    given-names: "Abiha"
+repository-code: "https://github.com/abihasaqib24-lab/perovskite-radiation-study"
+url: "https://github.com/abihasaqib24-lab/perovskite-radiation-study"
+keywords:
+  - perovskites
+  - radiation-induced vacancies
+  - machine learning
+  - materials informatics
+  - Pareto optimization
+license: MIT
