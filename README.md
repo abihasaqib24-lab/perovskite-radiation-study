@@ -7,8 +7,8 @@
 [![Python](https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)](notebooks/)
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-green.svg)](LICENSE)
-[![Latest commit](https://img.shields.io/github/last-commit/abihasaqib24-lab/perovskite-radiation-research)](https://github.com/abihasaqib24-lab/perovskite-radiation-research/commits/main)
-[![Repository](https://img.shields.io/badge/Repository-GitHub-24292f?logo=github)](https://github.com/abihasaqib24-lab/perovskite-radiation-research)
+[![Latest commit](https://img.shields.io/github/last-commit/abihasaqib24-lab/perovskite-radiation-study)](https://github.com/abihasaqib24-lab/perovskite-radiation-study/commits/main)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-24292f?logo=github)](https://github.com/abihasaqib24-lab/perovskite-radiation-study)
 
 **Radiation-defect modeling · Materials informatics · Pareto screening**
 
@@ -46,7 +46,7 @@ The two streams inform research priorities; the Phase 1 MLP was **not** used to 
 ## Repository contents
 
 ```text
-perovskite-radiation-research/
+perovskite-radiation-study/
 ├── data/                   # Raw, cleaned and external materials records
 ├── notebooks/              # Radiation-modeling and materials-screening workflows
 ├── results/                # Model metrics, profile descriptors and Pareto tables
